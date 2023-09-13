@@ -1,5 +1,5 @@
    Hi, I’m @Tarunesh-Light <br>
-   I have worked past years in core      technologies.Now entering Software    domain and am starting my journey to learn new stuffs in it<br
+   I have worked past years in core      technologies.Now entering Software    domain and am starting my journey to learn new stuffs in it<br>
    I am currently curious on learning and improving our present computer vision tools <br>
    Will update my interesting projects and ideas soon.
 <!---
